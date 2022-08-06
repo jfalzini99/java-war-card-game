@@ -35,7 +35,7 @@ public class App {
 		
 		Deck deck = new Deck(); 
 		Player player1 = new Player("Joseph"); 
-		Player player2 = new Player("Vinny"); 
+		Player player2 = new Player("Julianna"); 
 		
 		deck.shuffle();
 		
